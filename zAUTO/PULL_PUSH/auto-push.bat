@@ -1,7 +1,7 @@
 @echo off
 echo Salvando seu codigo no GitHub...
 
-cd C:\Users\1DEVSESI46A\Documents\Kauan_Aulas
+cd C:\Users\46T1\Documents\Aulas-Kauan
 
 :: Adiciona todas as modificacoes
 git add .
